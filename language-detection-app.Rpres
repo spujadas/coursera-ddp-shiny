@@ -2,7 +2,8 @@ Language Detection Shiny App
 ========================================================
 author: Sébastien Pujadas
 date: 26th February 2017
-autosize: true
+width: 1680
+height: 1050
 
 Overview
 ========================================================
