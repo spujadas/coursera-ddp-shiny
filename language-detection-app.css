@@ -1,0 +1,55 @@
+.section .reveal .state-background {
+  background: #25679E;
+} 
+
+.reveal h3 {
+  font-weight: bold;
+  color: #25679E;
+}
+
+.reveal li li {
+  font-size: 90%;
+}
+
+.small-code pre code {
+  font-size: 1.3em;
+}
+
+.reveal .equal-frequencies {
+  font-weight: bold;
+  color: #2DABFF;
+}
+
+.reveal .user-text {
+  font-weight: bold;
+  color: #1A7A90;
+}
+
+.reveal .corpus-text {
+  font-weight: bold;
+  color: #DC2340;
+}
+
+.reveal .footer {
+    color: black;
+    /*background: #E8E8E8;*/
+    position: fixed; top: 85%;
+    width:100%;
+    font-size:80%;
+    border-top:1px solid black;
+}
+
+.reveal .footer:after {
+  padding:0;margin:0;display:block;/* not really needed */
+  content: "";
+  width:80%;
+  height:1px;
+  background-color:white;
+  position: absolute;
+  right:0;
+  top:-1px;
+}
+
+.reveal sup {
+  font-size: smaller;
+}
