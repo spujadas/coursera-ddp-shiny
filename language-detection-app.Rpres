@@ -21,7 +21,7 @@ Overview
 
 - **Source code**
 
-  Published on GitHub at https://github.com/spujadas/ddp-shiny
+  Published on GitHub at https://github.com/spujadas/coursera-ddp-shiny
 
 Scoring the text
 ========================================================
